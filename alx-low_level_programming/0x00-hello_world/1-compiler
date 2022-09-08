@@ -1,0 +1,3 @@
+#!/bin/bash
+gcc -c $CFILE
+M-x delete-trailing-whitespaces
