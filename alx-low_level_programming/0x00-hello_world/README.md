@@ -1,1 +1,1 @@
-This is m first time learnng C programming Language 
+This is my first time learnig C programming 
